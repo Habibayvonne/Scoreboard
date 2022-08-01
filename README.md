@@ -4,12 +4,12 @@ This is a solo project of my Javascript Scrimba course used to display scores fr
 # live
 https://habibayvonne.github.io/Scoreboard/
 
-#Tools Used
+# Tools Used
 .Figma design
 .Javascript
 .Html
 .css
 
-#Acknowledgement
+# Acknowledgement
 https://scrimba.com/
 
